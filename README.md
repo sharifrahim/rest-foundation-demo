@@ -1,8 +1,4 @@
-Here is a `README.md` for your project, based on all the code you've shared:
 
----
-
-````markdown
 # 🛡️ Rest Foundation Demo
 
 A modular and extensible Java Spring Boot application for executing external REST API requests with automatic audit logging, provider-specific authentication, and a strategy-based execution model.
